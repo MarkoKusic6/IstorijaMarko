@@ -1,0 +1,77 @@
+header{
+    font-size: 100px;
+    text-align: center;
+    background-color: #333c32;
+    color: #E9E3D0;
+    padding: 10px;
+}
+nav{
+    padding: 10px;
+    background-color: #E9E3D0;
+    font-size: 30px;
+
+}
+.onjemu:hover{
+    background-color: #333c32;
+    color: #E9E3D0;
+    border-radius: 10%;
+    padding:10px;
+}
+a{
+     text-decoration: none;
+    color: #333c32;
+
+}
+.slike:hover{
+    background-color: #333c32;
+    color: #E9E3D0;
+    border-radius: 10%;
+    padding:10px;
+}
+a{
+    text-decoration: none;
+    color: #333c32;
+
+}
+div{
+   background-color: #333c32;
+   padding: 10px;
+   
+
+    
+}
+h1{
+    color:#E9E3D0;
+    text-align: center;
+}
+#tekst{
+    font-size: 20px;
+    text-align: center;
+    color: #E9E3D0;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding:10px;
+}
+footer{
+    text-align: right;
+    background-color: #E9E3D0;
+    color: #333c32;
+    padding:10px;
+}
+#slika3{
+    height: 270px;
+   
+}
+#slika5{
+    height: 270px;
+}
+#slika6{
+    height: 270px;
+}
+#slika7{
+    height: 270px;
+}
+#slika8{
+    height: 270px;
+    width: 260px;
+}
